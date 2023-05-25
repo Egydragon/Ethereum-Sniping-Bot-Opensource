@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" />
 </p>
   
+  <p>BSC Sniping bot: https://github.com/DefiZoro/BSC-Sniping-Bot-Opensource</p>  
+  <p>ARBITRUM version: https://github.com/DefiZoro/Arbitrum-Sniping-Bot-Opensource</p>
+  
 
 </div>
 
